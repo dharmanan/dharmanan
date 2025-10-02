@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Dharmanan
+# 👋 Hi, I'm Koray
 
 - 💻 Software Developer
 - 🚀 Interests: TypeScript, JavaScript, Solidity, Web Development and more
