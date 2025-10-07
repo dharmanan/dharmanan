@@ -1,9 +1,11 @@
 
 # 👋 Hi, I'm Dharmanan
+<img src="./images/kart.png" alt="Profile Banner" width="400"/>
 
 - 💻 Software Developer
 - 🚀 Interests: TypeScript, JavaScript, Solidity, Web Development and more
 - 📫 Contact: [X (Twitter)](https://x.com/KohenEric)
+
 
 ## 🎮 My Favorite Projects
 
