@@ -1,5 +1,6 @@
 
-# 👋 Hi, I'm Dharmanan
+
+# 👋 Hi, I'm Koray
 <img src="./images/kart.png" alt="Profile Banner" width="400"/>
 
 - 💻 Software Developer
