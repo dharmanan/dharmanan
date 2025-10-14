@@ -1,7 +1,7 @@
 
 
 # 👋 Hi, I'm Koray
-<img src="./images/kart.png" alt="Profile Banner" width="400"/>
+
 
 - 💻 Software Developer
 - 🚀 Interests: TypeScript, JavaScript, Solidity, Web Development and more
