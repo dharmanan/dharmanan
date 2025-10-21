@@ -13,7 +13,7 @@
 I have many projects, but here are some of my favorites:
 
 - [Pawn's Gambit Game (Play on Vercel)](https://pawnsgambit.vercel.app/)
-- [FHE Tests (fhevm-hardhat-template)](https://github.com/dharmanan/fhevm-hardhat-template)  
+- [FHE Tests (fhevm-hardhat-template)](https://github.com/dharmanan/fhevm-react-template)  
 	Backend experiments and tests with Fully Homomorphic Encryption (FHE).
 
 
