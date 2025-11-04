@@ -28,12 +28,11 @@ A passionate full-stack developer with deep expertise in blockchain and DeFi eco
 |---------|-------------|-----------|
 | **[Arc-Testnet-Bridge-Swap](https://github.com/dharmanan/Arc-Testnet-Bridge-Swap)** | Uniswap V2 DEX + Circle Bridge Kit integration for Sepolia ↔ Arc testnet USDC transfers | TypeScript |
 | **[ARC-Testnet-Lend](https://github.com/dharmanan/ARC-Testnet-Lend)** | Complete DeFi ecosystem (collateralized lending + AMM) - 20/20 tests passing | Solidity/Foundry |
-| **[Confidential-Orderbook-ZAMA-DEX](https://github.com/dharmanan/Confidential-Orderbook-ZAMA-DEX)** | Confidential order book DEX (encrypted transactions with Zama FHE) | TypeScript |
-| **[FHE-Auction-Fed](https://github.com/dharmanan/FHE-Auction-Fed)** | Secret voting and auctions on blockchain | Solidity |
+| **[winnerprice](https://github.com/dharmanan/winnerprice)** | Zama FHE-powered winner price prediction and lottery system | TypeScript |
+| **[fhevm-react-template](https://github.com/dharmanan/fhevm-react-template)** | React template for building applications with Zama's Fully Homomorphic Encryption | TypeScript |
+| **[Base-camp-sepolia-](https://github.com/dharmanan/Base-camp-sepolia-)** | React + Wagmi frontend for wallet connection, NFT minting and Discord role assignment | TypeScript |
 | **[pawns-gambit-base-miniapp](https://github.com/dharmanan/pawns-gambit-base-miniapp)** | On-chain game on Base Sepolia | TypeScript |
 | **[brevis-portfolio-viewer-final](https://github.com/dharmanan/brevis-portfolio-viewer-final)** | Portfolio viewer using Brevis ZK proofs | Go |
-| **[confidential-grants-dao](https://github.com/dharmanan/confidential-grants-dao)** | DAO for confidential grant distribution using Zama FHE | TypeScript |
-| **[Pawn's Gambit Game](https://pawnsgambit.vercel.app/)** | Intelligence-enhancing game | TypeScript |
 
 ---
 
