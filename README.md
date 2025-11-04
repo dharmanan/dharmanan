@@ -1,34 +1,62 @@
+# Koray 🚀
 
+**Full-Stack Web3 Developer & Smart Contract Architect**
 
-# 👋 Hi, I'm Koray
+---
 
+## 👋 About
 
-- 💻 Software Developer
-- 🚀 Interests: TypeScript, JavaScript, Solidity, Web Development and more
-- 📫 Contact: [X (Twitter)](https://x.com/KohenEric)
+A passionate full-stack developer with deep expertise in blockchain and DeFi ecosystems. I build modern, secure, and scalable applications using **TypeScript** and **Solidity**. Specialized in Web3 projects focused on Zama's Fully Homomorphic Encryption (FHE), Brevis ZK proofs, and Layer 2 solutions (Arc, Base).
 
+**📫 Contact**: [X (Twitter)](https://x.com/KohenEric)
 
-## 🎮 My Favorite Projects
+---
 
-I have many projects, but here are some of my favorites:
+## 🎯 Expertise Areas
 
-- [Pawn's Gambit Game (Play on Vercel)](https://pawnsgambit.vercel.app/)
-- [FHE Tests (fhevm-hardhat-template)](https://github.com/dharmanan/fhevm-react-template)  
-	Backend experiments and tests with Fully Homomorphic Encryption (FHE).
+- **Smart Contracts**: Solidity, Hardhat, Foundry
+- **Frontend**: React, TypeScript, Wagmi, Scaffold-ETH
+- **DeFi Protocols**: DEX, Lending, AMM, Bridge Integrations
+- **Cryptography**: Fully Homomorphic Encryption (FHE), Zero-Knowledge Proofs
+- **Blockchain Networks**: Ethereum, Sepolia, Arc Testnet, Base, Solana (Brevis)
 
+---
 
-## 🛠️ Technologies I Use
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=gnu-bash)
-![Perl](https://img.shields.io/badge/-Perl-333333?style=flat&logo=perl)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![Makefile](https://img.shields.io/badge/-Makefile-333333?style=flat)
-![Batchfile](https://img.shields.io/badge/-Batchfile-333333?style=flat)
-![Dockerfile](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+## 💼 Featured Projects
 
-<!-- Add more sections or customize as you like! -->
+| Project | Description | Technology |
+|---------|-------------|-----------|
+| **[Arc-Testnet-Bridge-Swap](https://github.com/dharmanan/Arc-Testnet-Bridge-Swap)** | Uniswap V2 DEX + Circle Bridge Kit integration for Sepolia ↔ Arc testnet USDC transfers | TypeScript |
+| **[ARC-Testnet-Lend](https://github.com/dharmanan/ARC-Testnet-Lend)** | Complete DeFi ecosystem (collateralized lending + AMM) - 20/20 tests passing | Solidity/Foundry |
+| **[Confidential-Orderbook-ZAMA-DEX](https://github.com/dharmanan/Confidential-Orderbook-ZAMA-DEX)** | Confidential order book DEX (encrypted transactions with Zama FHE) | TypeScript |
+| **[FHE-Auction-Fed](https://github.com/dharmanan/FHE-Auction-Fed)** | Secret voting and auctions on blockchain | Solidity |
+| **[pawns-gambit-base-miniapp](https://github.com/dharmanan/pawns-gambit-base-miniapp)** | On-chain game on Base Sepolia | TypeScript |
+| **[brevis-portfolio-viewer-final](https://github.com/dharmanan/brevis-portfolio-viewer-final)** | Portfolio viewer using Brevis ZK proofs | Go |
+| **[confidential-grants-dao](https://github.com/dharmanan/confidential-grants-dao)** | DAO for confidential grant distribution using Zama FHE | TypeScript |
+| **[Pawn's Gambit Game](https://pawnsgambit.vercel.app/)** | Intelligence-enhancing game | TypeScript |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**: TypeScript, Solidity, Go, JavaScript, Rust, Shell, C, Perl
+
+**Frameworks & Libraries**:
+- React, Wagmi, ethers.js, Viem
+- Scaffold-ETH 2, Hardhat, Foundry
+- Docker
+
+**Web3 Protocols**: Uniswap V2, Circle Bridge, Zama FHE, Brevis ZK
+
+**Blockchain Networks**: Ethereum, Sepolia, Arc, Base, Solana
+
+---
+
+## 🔗 Links
+
+- **GitHub**: [@dharmanan](https://github.com/dharmanan)
+- **Twitter/X**: [@KohenEric](https://x.com/KohenEric)
+
+---
+
+**Mission**: Bridging security, privacy, and decentralization in the Web3 ecosystem using cutting-edge technologies (FHE, ZK proofs).
