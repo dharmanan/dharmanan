@@ -1,4 +1,4 @@
-# Koray 🚀
+# Koray 
 
 **Full-Stack Web3 Developer & Smart Contract Architect**
 
