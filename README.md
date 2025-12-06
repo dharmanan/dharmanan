@@ -105,17 +105,6 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
       </p>
       <p align="center">Zama FHE-powered winner price prediction and lottery system</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌟 My First Contribution</h3>
-      <p align="center">
-        <a href="https://github.com/dharmanan/my-first-contribution">
-          <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">Open source contribution guide and starter project</p>
-    </td>
     <td width="50%">
       <h3 align="center">⚡ FHEVM React Template</h3>
       <p align="center">
@@ -128,6 +117,15 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center">🌟 My First Contribution</h3>
+      <p align="center">
+        <a href="https://github.com/dharmanan/my-first-contribution">
+          <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Open source contribution guide and starter project</p>
+    </td>
+    <td width="50%">
       <h3 align="center">🚀 SpeedRun Ethereum Batch 22</h3>
       <p align="center">
         <a href="https://github.com/dharmanan/batch22.buidlguidl.com">
@@ -135,9 +133,6 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
         </a>
       </p>
       <p align="center">Developed the community profile page and designed the official Batch 22 logo (successfully merged) for the SpeedRun Ethereum initiative</p>
-    </td>
-    <td width="50%">
-      <!-- Placeholder for future project -->
     </td>
   </tr>
 </table>
