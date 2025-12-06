@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm Koray!
+# 👋 Hey, I'm Koray
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web3+Developer;Smart+Contract+Architect;FHE+%26+ZK+Proofs+Specialist;Building+the+Future+of+DeFi)](https://git.io/typing-svg)
 
