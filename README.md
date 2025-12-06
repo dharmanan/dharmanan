@@ -105,15 +105,6 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
       </p>
       <p align="center">Zama FHE-powered winner price prediction and lottery system</p>
     </td>
-    <td width="50%">
-      <h3 align="center">🎮 Pawns Gambit</h3>
-      <p align="center">
-        <a href="https://github.com/dharmanan/pawns-gambit-base-miniapp">
-          <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">On-chain game built on Base Sepolia</p>
-    </td>
   </tr>
   <tr>
     <td width="50%">
