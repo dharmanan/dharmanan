@@ -139,26 +139,6 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  
-<img src="https://streak-stats.demolab.com/?user=dharmanan&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanan&theme=tokyo-night&hide_border=true&custom_title=Koray's%20Contribution%20Graph" alt="Contribution Graph" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 🚀 Mission
