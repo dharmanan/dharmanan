@@ -139,24 +139,11 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=dharmanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmanan&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmanan&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=dharmanan&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://streak-stats.demolab.com/?user=dharmanan&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
 
 </div>
 
@@ -166,7 +153,7 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
 
 <div align="center">
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharmanan&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanan&theme=tokyo-night&hide_border=true&custom_title=Koray's%20Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
