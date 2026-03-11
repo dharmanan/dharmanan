@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Koray
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web3+Developer;Smart+Contract+Architect;FHE+%26+ZK+Proofs+Specialist;Building+the+Future+of+DeFi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web3+Developer;Smart+Contract+Architect;Building+Autonomous+AI+Agents;FHE+%26+ZK+Proofs+Specialist;Building+the+Future+of+DeFi)](https://git.io/typing-svg)
 
 <p>
   <a href="https://x.com/KohenEric"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -19,16 +19,25 @@
 
 A passionate full-stack developer with deep expertise in **blockchain** and **DeFi** ecosystems. I build modern, secure, and scalable applications using **TypeScript** and **Solidity**.
 
+- 🤖 Researching and developing **Autonomous AI Agents** & **Agentic Workflows**
 - 🔐 Specialized in **Zama's Fully Homomorphic Encryption (FHE)**
-- 🔮 Building with **Brevis ZK Proofs** 
-- ⛓️ Working on **Layer 2 solutions** (Arc, Base)
+- ⚡ Building innovative Web3 solutions on **Tempo Testnet** & **Arc Testnet**
 - 💵 Building **Stablecoin protocols** & **DeFi integrations**
 - 📊 Developing **Price Action Trading Terminals**
 - 🌱 Currently exploring **advanced cryptographic protocols**
 
 ---
 
-## 🛠️ Tech Stack
+## � GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dharmanan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmanan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+## �🛠️ Tech Stack
 
 <div align="center">
 
@@ -36,8 +45,15 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### AI & Agents
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ### Blockchain & Web3
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -66,6 +82,7 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
 🔹 DeFi Protocols     → DEX, Lending, AMM, Bridge Integrations, Stablecoins
 🔹 Trading Systems    → Price Action Terminals, ICT Concepts, Market Analysis
 🔹 Cryptography       → Fully Homomorphic Encryption (FHE), Zero-Knowledge Proofs
+🔹 AI & Agents        → Autonomous Agents, Agentic Workflows, AI Integration
 🔹 Frontend           → React, TypeScript, Wagmi, Scaffold-ETH
 🔹 Networks           → Ethereum, Sepolia, Arc Testnet, Base, Solana
 ```
@@ -75,6 +92,26 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
 ## 💼 Featured Projects
 
 <table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ Tempo Testnet</h3>
+      <p align="center">
+        <a href="https://github.com/dharmanan/tempo-testnet">
+          <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Tempo Testnet</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📈 Moltbook Trend Analyz</h3>
+      <p align="center">
+        <a href="https://github.com/dharmanan/moltbook-trend-analyz">
+          <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Moltbook Trend Analysis</p>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3 align="center">🌉 Arc-Testnet-Bridge-Swap</h3>
@@ -97,33 +134,13 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🔐 Winnerprice (FHE)</h3>
+      <h3 align="center">🔒 FHE Hub</h3>
       <p align="center">
-        <a href="https://github.com/dharmanan/winnerprice">
+        <a href="https://github.com/dharmanan/fhe-hub">
           <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Zama FHE-powered winner price prediction and lottery system</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚡ FHEVM React Template</h3>
-      <p align="center">
-        <a href="https://github.com/dharmanan/fhevm-react-template">
-          <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">React template for building apps with Zama's FHE</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌟 My First Contribution</h3>
-      <p align="center">
-        <a href="https://github.com/dharmanan/my-first-contribution">
-          <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">Open source contribution guide and starter project</p>
+      <p align="center">A central hub and framework for Fully Homomorphic Encryption applications</p>
     </td>
     <td width="50%">
       <h3 align="center">🚀 SpeedRun Ethereum Batch 22</h3>
@@ -136,6 +153,18 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
     </td>
   </tr>
 </table>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dharmanan/dharmanan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dharmanan/dharmanan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dharmanan/dharmanan/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
