@@ -1,8 +1,5 @@
 name: Generate Snake
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
-
 on:
   schedule:
     - cron: "0 0 * * *" # Her gün gece yarısı çalışır
@@ -16,7 +13,7 @@ jobs:
       contents: write # Output branch'ine yazabilmesi için gerekli izin
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       
       - uses: Platane/snk@v3
         with:
@@ -37,7 +34,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
