@@ -1,5 +1,8 @@
 name: Generate Snake
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   schedule:
     - cron: "0 0 * * *" # Her gün gece yarısı çalışır
@@ -8,9 +11,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     
     permissions:
       contents: write # Output branch'ine yazabilmesi için gerekli izin
