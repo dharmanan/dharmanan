@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Koray
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web3+Developer;Smart+Contract+Architect;Building+Autonomous+AI+Agents;FHE+%26+ZK+Proofs+Specialist;Building+the+Future+of+DeFi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Agentic+Finance+Builder;Smart+Contract+Architect;Stablecoin+%26+DeFi+Protocol+Dev;FHE+%26+ZK+Proofs+Specialist;Building+the+Autonomous+Agent+Economy)](https://git.io/typing-svg)
 
 <p>
   <a href="https://x.com/KohenEric"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -17,18 +17,18 @@
 
 ## 🧑‍💻 About Me
 
-A passionate full-stack developer with deep expertise in **blockchain** and **DeFi** ecosystems. I build modern, secure, and scalable applications using **TypeScript** and **Solidity**.
+I'm an independent Web3 developer specializing in **agentic finance**, **stablecoin infrastructure**, and **on chain cryptography**. I build end to end systems from smart contracts to backend execution layers to user interfaces entirely solo.
 
-- 🤖 Researching and developing **Autonomous AI Agents** & **Agentic Workflows**
-- 🔐 Specialized in **Zama's Fully Homomorphic Encryption (FHE)**
-- ⚡ Building innovative Web3 solutions on **Tempo Testnet** & **Arc Testnet**
-- 💵 Building **Stablecoin protocols** & **DeFi integrations**
-- 📊 Developing **Price Action Trading Terminals**
-- 🌱 Currently exploring **advanced cryptographic protocols**
+- 🤖 Building **autonomous AI agent wallets** and agentic execution systems for the onchain economy
+- 💵 Developing **stablecoin protocols** and DeFi integrations across **Ethereum, Base, Arc, Optimism, Arbitrum**
+- 🌉 Deep experience with **Circle's product stack** — USDC, EURC, CCTP, Bridge Kit, Gateway, x402
+- 🔐 Researching **Fully Homomorphic Encryption (FHE)** with Zama and **Zero Knowledge Proof** systems
+- ⚡ Active builder on **Arc Testnet**, **Tempo Testnet** and **Base** — shipping production grade contracts and live applications
+- 📊 Building **onchain data marketplaces** and oracle surfaces for agent driven micro payment flows
 
 ---
 
-## � GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dharmanan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
@@ -37,7 +37,7 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
 
 ---
 
-## �🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -57,6 +57,7 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
 
 ### Blockchain & Web3
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Base](https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=for-the-badge&logo=foundry&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
@@ -68,6 +69,7 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
 
 ### Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -78,13 +80,13 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
 ## 🎯 Expertise Areas
 
 ```
-🔹 Smart Contracts    → Solidity, Hardhat, Foundry, OpenZeppelin
-🔹 DeFi Protocols     → DEX, Lending, AMM, Bridge Integrations, Stablecoins
-🔹 Trading Systems    → Price Action Terminals, ICT Concepts, Market Analysis
-🔹 Cryptography       → Fully Homomorphic Encryption (FHE), Zero-Knowledge Proofs
-🔹 AI & Agents        → Autonomous Agents, Agentic Workflows, AI Integration
-🔹 Frontend           → React, TypeScript, Wagmi, Scaffold-ETH
-🔹 Networks           → Ethereum, Sepolia, Arc Testnet, Base, Solana
+🔹 Agentic Finance     → Autonomous agent wallets, WebAuthn passkeys, x402 micro payments
+🔹 Stablecoin Infra    → USDC, EURC, CCTP, Bridge Kit, Gateway, multi chain routing
+🔹 DeFi Protocols      → DEX, Lending, AMM, Curve pools, collateralized positions
+🔹 Smart Contracts     → Solidity, Hardhat, Foundry, OpenZeppelin, custom ERC standards
+🔹 Cryptography        → Fully Homomorphic Encryption (FHE), Zero Knowledge Proofs
+🔹 AI & Agents         → Autonomous workflows, onchain oracle surfaces, agent execution layers
+🔹 Networks            → Ethereum, Base, Arc, Tempo, Optimism, Arbitrum, Solana, Sui
 ```
 
 ---
@@ -94,45 +96,34 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">⚡ Tempo Testnet</h3>
+      <h3 align="center">🤖 Arc Machina</h3>
       <p align="center">
-        <a href="https://github.com/dharmanan/tempo-testnet">
+        <a href="https://github.com/dharmanan/arcmachina">
           <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Tempo Testnet</p>
+      <p align="center">Agentic finance OS — passkey secured AI agent wallets for no-code bridging, swapping & DeFi. Live on Arc Testnet.</p>
     </td>
     <td width="50%">
-      <h3 align="center">📈 Moltbook Trend Analyz</h3>
-      <p align="center">
-        <a href="https://github.com/dharmanan/moltbook-trend-analyz">
-          <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">Moltbook Trend Analysis</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌉 Arc-Testnet-Bridge-Swap</h3>
+      <h3 align="center">🌉 Arc Testnet Bridge Swap</h3>
       <p align="center">
         <a href="https://github.com/dharmanan/Arc-Testnet-Bridge-Swap">
           <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Uniswap V2 DEX + Circle Bridge Kit integration for Sepolia ↔ Arc testnet USDC transfers</p>
+      <p align="center">Uniswap V2 DEX + Circle Bridge Kit — 5 chain USDC routing across Sepolia, Arc, Base, Optimism, Arbitrum & Solana</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
-      <h3 align="center">💰 ARC-Testnet-Lend</h3>
+      <h3 align="center">💰 ARC Testnet Lend</h3>
       <p align="center">
         <a href="https://github.com/dharmanan/ARC-Testnet-Lend">
           <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Complete DeFi ecosystem (collateralized lending + AMM) - 20/20 tests passing</p>
+      <p align="center">Complete DeFi ecosystem — collateralized lending + constant product AMM. Built with Solidity + Foundry.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">🔒 FHE Hub</h3>
       <p align="center">
@@ -140,7 +131,18 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
           <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">A central hub and framework for Fully Homomorphic Encryption applications</p>
+      <p align="center">A central hub and framework for Fully Homomorphic Encryption applications using Zama's stack</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ Tempo Testnet</h3>
+      <p align="center">
+        <a href="https://github.com/dharmanan/tempo-testnet">
+          <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Stablecoin protocol experiments and DeFi integrations on Tempo Testnet</p>
     </td>
     <td width="50%">
       <h3 align="center">🚀 SpeedRun Ethereum Batch 22</h3>
@@ -172,7 +174,7 @@ A passionate full-stack developer with deep expertise in **blockchain** and **De
 
 ### 🚀 Mission
 
-**Bridging security, privacy, and decentralization in the Web3 ecosystem using cutting-edge technologies (FHE, ZK proofs)**
+**Building the infrastructure layer of the autonomous agent economy — where stablecoins, cryptography, and AI execution converge onchain.**
 
 ---
 
