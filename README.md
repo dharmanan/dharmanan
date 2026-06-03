@@ -21,9 +21,9 @@ I'm an independent Web3 developer specializing in **agentic finance**, **stablec
 
 - 🤖 Building **autonomous AI agent wallets** and agentic execution systems for the onchain economy
 - 💵 Developing **stablecoin protocols** and DeFi integrations across **Ethereum, Base, Arc, Optimism, Arbitrum**
-- 🌉 Deep experience with **Circle's product stack** — USDC, EURC, CCTP, Bridge Kit, Gateway, x402
+- 🌉 Deep experience with **Circle's product stack**  USDC, EURC, CCTP, Bridge Kit, Gateway, x402
 - 🔐 Researching **Fully Homomorphic Encryption (FHE)** with Zama and **Zero Knowledge Proof** systems
-- ⚡ Active builder on **Arc Testnet**, **Tempo Testnet** and **Base** — shipping production grade contracts and live applications
+- ⚡ Active builder on **Arc Testnet**, **Tempo Testnet** and **Base**  shipping production grade contracts and live applications
 - 📊 Building **onchain data marketplaces** and oracle surfaces for agent driven micro payment flows
 
 ---
@@ -86,7 +86,7 @@ I'm an independent Web3 developer specializing in **agentic finance**, **stablec
 🔹 Smart Contracts     → Solidity, Hardhat, Foundry, OpenZeppelin, custom ERC standards
 🔹 Cryptography        → Fully Homomorphic Encryption (FHE), Zero Knowledge Proofs
 🔹 AI & Agents         → Autonomous workflows, onchain oracle surfaces, agent execution layers
-🔹 Networks            → Ethereum, Base, Arc, Tempo, Optimism, Arbitrum, Solana, Sui
+🔹 Chains              → Ethereum, Base, Arc, Tempo, Optimism, Arbitrum, Solana, Sui
 ```
 
 ---
@@ -102,7 +102,7 @@ I'm an independent Web3 developer specializing in **agentic finance**, **stablec
           <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Agentic finance OS — passkey secured AI agent wallets for no-code bridging, swapping & DeFi. Live on Arc Testnet.</p>
+      <p align="center">Agentic finance OS passkey secured AI agent wallets for no-code bridging, swapping & DeFi. Live on Arc Testnet.</p>
     </td>
     <td width="50%">
       <h3 align="center">🌉 Arc Testnet Bridge Swap</h3>
@@ -111,7 +111,7 @@ I'm an independent Web3 developer specializing in **agentic finance**, **stablec
           <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Uniswap V2 DEX + Circle Bridge Kit — 5 chain USDC routing across Sepolia, Arc, Base, Optimism, Arbitrum & Solana</p>
+      <p align="center">Uniswap V2 DEX + Circle Bridge Kit 5 chain USDC routing across Sepolia, Arc, Base, Optimism, Arbitrum & Solana</p>
     </td>
   </tr>
   <tr>
@@ -122,7 +122,7 @@ I'm an independent Web3 developer specializing in **agentic finance**, **stablec
           <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Complete DeFi ecosystem — collateralized lending + constant product AMM. Built with Solidity + Foundry.</p>
+      <p align="center">Complete DeFi ecosystem collateralized lending + constant product AMM. Built with Solidity + Foundry.</p>
     </td>
     <td width="50%">
       <h3 align="center">🔒 FHE Hub</h3>
@@ -174,7 +174,7 @@ I'm an independent Web3 developer specializing in **agentic finance**, **stablec
 
 ### 🚀 Mission
 
-**Building the infrastructure layer of the autonomous agent economy — where stablecoins, cryptography, and AI execution converge onchain.**
+**Building the infrastructure layer of the autonomous agent economy  where stablecoins, cryptography, and AI execution converge onchain.**
 
 ---
 
