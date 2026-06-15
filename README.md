@@ -105,7 +105,7 @@ I'm an independent Web3 developer specializing in **agentic finance**, **stablec
       <p align="center">Agentic finance OS passkey secured AI agent wallets for no-code bridging, swapping & DeFi. Live on Arc Testnet.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🌉 Arc Testnet Bridge Swap</h3>
+      <h3 align="center">🌉 Machina Bridge Swap</h3>
       <p align="center">
         <a href="https://github.com/dharmanan/Arc-Testnet-Bridge-Swap">
           <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
