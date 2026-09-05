@@ -98,7 +98,7 @@ I'm an independent Web3 developer specializing in **agentic finance**, **stablec
     <td width="50%">
       <h3 align="center">🤖 Arc Machina</h3>
       <p align="center">
-        <a href="https://github.com/dharmanan/arcmachina">
+        <a href="https://github.com/dharmanan/arc-agent">
           <img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
